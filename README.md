@@ -1,1 +1,1 @@
-# NLP-qgw-project
+# Natural language processing project

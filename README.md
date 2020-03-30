@@ -1,5 +1,8 @@
 # Natural language processing project
 
+Build and optimize the machine learning algorithms of government cases department allocation called Autoflow project.
+(Random Forest,SVM,etx) 
+
 * Package version: requirements.txt
   * python-dateutil==2.6.0
   * scikit-learn==0.18.1
@@ -9,4 +12,5 @@
   * PyMySQL==0.7.10
   * jieba==0.38
   
+ 
  

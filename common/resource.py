@@ -1,7 +1,3 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-# Author:   Jay.Chen
-# DateTime: 3/23/17 5:00 PM
 import os
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))

@@ -1,4 +1,4 @@
-# Natural language processing project
+# Natural Language Processing Project
 
 Build and optimize the machine learning algorithms of government cases department allocation called Autoflow project.
 (Random Forest,SVM,etx) 

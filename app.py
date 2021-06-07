@@ -18,6 +18,8 @@ from qgw_autoflow.dao.model import (VisualArea, CaseAssignTier, CaseFinishTier,
 from qgw_autoflow.service import biz, assign2, assign3
 from qgw_autoflow.service.biz import get_word, get_category_id, get_category_name, get_depart_by_id
 
+#test
+
 vec = joblib.load(TYPE_VEC_FILE)
 tfidf = joblib.load(TYPE_TFIDF_FILE)
 clf = joblib.load(TYPE_CLF_FILE)
